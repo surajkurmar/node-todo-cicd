@@ -1,4 +1,4 @@
-# node-todo-cicd-surajkumar..Amit.
+# node-todo-cicd-surajkumar..Amit
 
 Run these commands:
 
